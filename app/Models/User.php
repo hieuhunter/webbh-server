@@ -24,6 +24,7 @@ class User extends Authenticatable
         'ho_ten',
         'user_name',
         'tai_khoan',
+        'password',
         'email',
         'sdt',
         'dia_chi'
